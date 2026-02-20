@@ -136,6 +136,8 @@ BINANCE_API_KEY=your_testnet_api_key
 BINANCE_API_SECRET=your_testnet_secret_key
 
 *** USE YOUR OWN API KEY AND API SECRET ***
+*** THESE TEST API KEYS MUST BE WRITTEN INSIDE .env FILE ***
+
 
 ⚠ Use Binance Futures Testnet keys:
 https://testnet.binancefuture.com
