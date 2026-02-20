@@ -66,6 +66,10 @@ BINANCE_API_SECRET=your_testnet_secret_key
 ⚠ Use Binance Futures Testnet keys:
 https://testnet.binancefuture.com
 
+
+
+
+
 # Binance Futures Testnet Trading Bot
 
 A simplified Python trading bot that places Market and Limit orders on Binance USDT-M Futures Testnet.
@@ -131,9 +135,7 @@ pip install -r requirements.txt
 BINANCE_API_KEY=your_testnet_api_key
 BINANCE_API_SECRET=your_testnet_secret_key
 
-BINANCE_API_KEY=VFFLCSi5lweaR9qT3ZYC5zIuZ7Ce5vxJJP4Pbyhga1DHcTR5ltGUTnvhbo7jQpEO
-BINANCE_API_SECRET=yLtNkzbClDqnibRGt3ZJMpAyPpSnTLtWTPw0IokmprIOcHaxqfuzL2p6t4kBaDDj
-
+*** USE YOUR OWN API KEY AND API SECRET ***
 
 ⚠ Use Binance Futures Testnet keys:
 https://testnet.binancefuture.com
